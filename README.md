@@ -1,5 +1,5 @@
 name: xinrui song
 eid: xs3979
-bitbucketusername: 
-github
+bitbucketusername: xinrui 666
+github username:Suzanneisgenius
 comments: 
